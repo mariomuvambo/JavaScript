@@ -1,0 +1,23 @@
+body{
+    background: rgb(41, 199, 199);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    width: 500px;
+    height: 200px;
+    background: white;
+    margin: auto;
+    border-radius: 20px;
+}
+div{
+    padding-top: 20px;
+    margin: 20px;
+}
+footer{
+    color: white;
+    text-align: center;
+}
