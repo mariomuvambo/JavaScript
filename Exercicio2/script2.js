@@ -26,7 +26,7 @@ function verificar(){
 
             }else if(idade >= 22 && idade < 50){
                 // adulto
-                img.setAttribute('src', 'crianca.jpeg')
+                img.setAttribute('src', 'adulto.jpeg')
 
             }else {
                 // idoso
@@ -50,7 +50,6 @@ function verificar(){
         }
         resp.style.textAlign = 'center'
         resp.innerHTML = 'Detetamos '+genero+ ' Com a idade de '+idade
-
         resp.appendChild(img)
 
     }
