@@ -1,6 +1,7 @@
 body{
     background: rgb(41, 199, 199);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 header{
     color: white;
@@ -8,7 +9,7 @@ header{
 }
 section{
     width: 500px;
-    height: 200px;
+    height: 500px;
     background: white;
     margin: auto;
     border-radius: 20px;
@@ -20,4 +21,13 @@ div{
 footer{
     color: white;
     text-align: center;
+}
+img{
+    /* width: 400px; */
+    border-radius: 20px;
+    
+}
+#foto{
+    height: 300px;
+    /* width: 400px; */
 }
